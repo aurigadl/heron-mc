@@ -1,0 +1,9 @@
+{
+  "name": "heron-mc",
+  "version": "0.73",
+  "homepage": "http:http://heron-mc.org",
+  "repository": {
+    "type": "git",
+    "url": "git@proyectos.correlibre.org:aurigadl/heron-mc.git"
+  }
+}
