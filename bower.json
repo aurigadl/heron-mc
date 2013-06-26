@@ -1,6 +1,6 @@
 {
   "name": "heron-mc",
-  "version": "0.73",
+  "version": "0.7.3",
   "description": "heron mapping client",
   "homepage": "http://heron-mc.org",
   "repository": {
