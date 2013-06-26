@@ -1,0 +1,11 @@
+{
+  "name": "heron-mc",
+  "version": "0.73",
+  "description": "heron component",
+  "keywords": [
+    "heron",
+    "component"
+  ],
+  "main": "Heron.js",
+  "license": "GPLv3"
+}
