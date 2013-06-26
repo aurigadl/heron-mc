@@ -5,7 +5,7 @@
   "homepage": "http://heron-mc.org",
   "repository": {
     "type": "git",
-    "url": "git@proyectos.correlibre.org:aurigadl/heron-mc.git"
+    "url": "https://proyectos.correlibre.org/aurigadl/heron-mc.git"
   },
   "main": "heron.js",
   "ignore": [
