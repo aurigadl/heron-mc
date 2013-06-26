@@ -6,5 +6,11 @@
   "repository": {
     "type": "git",
     "url": "git@proyectos.correlibre.org:aurigadl/heron-mc.git"
-  }
+  },
+  "main": "heron.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
 }
